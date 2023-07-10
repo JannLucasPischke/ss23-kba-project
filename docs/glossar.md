@@ -50,6 +50,6 @@ Zusätzliche (Patienten) Dokumente sind angehängte Dateien wie zB. Röntgenbild
 -- Lino Update --
 
 **Konfiguration (Administratoren)**
--- Jann Update --
+Konfigurationen entsprechend den Unternehmensrichtlinien, den technischen Anforderungen und den Best Practices zu verwalten. Dies beinhaltet Aufgaben wie das Festlegen und Ändern von Konfigurationsoptionen, das Überprüfen und Aktualisieren von Konfigurationsdateien, das Durchführen von Tests und Validierungen, das Beheben von Konfigurationsfehlern und das Erstellen von Backups.
 
 
